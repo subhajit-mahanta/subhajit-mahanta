@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning *Core Java & WebTechnologies*
 
-- 📫 How to reach me *subhajitmahantax@gmail.com*
+- 📫 How to reach me *subhajitmahantawork@gmail.com*
 
 - ⚡ Fun fact *I like to watch anime & play online games.*
 

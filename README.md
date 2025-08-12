@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=👋+Hey%2C+I'm+Subhajit+Mahanta;🚀+Full+Stack+Developer;🇮🇳+Passionate+Coder+from+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=👋+Hey%2C+I'm+Subhajit+Mahanta;🚀+Full+Stack+Developer;🇮🇳+Passionate+Coder+from+India" alt="Typing SVG" />
 </div>
 
 <table>
@@ -27,11 +27,11 @@
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" style="border-radius: 50%; border: 3px solid #58A6FF;" alt="Cat Coding"/>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" alt="Cat Coding"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=subhajit-mahanta&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=subhajit-mahanta&color=58A6FF&style=flat-square" alt="Profile Views"/>
 </div>
 
 </td>

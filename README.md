@@ -45,8 +45,15 @@
   
 **📊 GitHub Analytics**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhajit-mahanta&layout=compact&theme=radical&hide_border=true"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhajit-mahanta&theme=radical&hide_border=true" alt="Contribution Graph"/>
+<table>
+<tr>
+<td align="center" width="50%">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhajit-mahanta&layout=compact&theme=default&hide_border=true"/>
+</td>
+<td align="center" width="50%">
+<img height="180em" src="https://github-profile-trophy.vercel.app/?username=subhajit-mahanta&theme=flat&no-frame=true&row=2&column=3&margin-h=15&margin-w=5" alt="GitHub Trophies"/>
+</td>
+</tr>
+</table>
 
 </div>

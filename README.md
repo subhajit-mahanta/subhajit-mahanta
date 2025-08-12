@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F7931E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Subhajit+Mahanta;Full+Stack+Developer+%F0%9F%9A%80;From+India+%F0%9F%87%8E%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=👋+Hey%2C+I'm+Subhajit+Mahanta;🚀+Full+Stack+Developer;🇮🇳+Passionate+Coder+from+India" alt="Typing SVG" />
 </div>
 
 <table>
@@ -26,7 +26,7 @@
 </td>
 <td width="50%" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding"/>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100%" alt="Cat Coding"/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=subhajit-mahanta&color=blueviolet&style=flat-square" alt="Profile Views"/>
@@ -45,6 +45,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=subhajit-mahanta&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhajit-mahanta&layout=compact&theme=radical&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=subhajit-mahanta&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=subhajit-mahanta&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
 </div>

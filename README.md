@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=I'm+Subhajit+Mahanta;Full+Stack+Developer;Code+Enthusiast;Anime+Lover;Problem+Solver;Always+Learning!" alt="Typing Animation" />
+
 </div>
 
 <table>
@@ -44,9 +45,8 @@
   
 **📊 GitHub Analytics**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=subhajit-mahanta&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhajit-mahanta&layout=compact&theme=radical&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com/?user=subhajit-mahanta&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhajit-mahanta&theme=radical&hide_border=true" alt="Contribution Graph"/>
 
 </div>
